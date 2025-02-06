@@ -107,11 +107,11 @@ const MenuApp = () => {
               <button
                 key={filter.id}
                 onClick={() => toggleFilter(filter.id)}
-                className={\`px-3 py-1 rounded-full text-sm \${
+                className={`px-3 py-1 rounded-full text-sm ${
                   filters.includes(filter.id)
                     ? 'bg-red-800 text-white'
                     : 'bg-gray-100'
-                }\`}
+                }`}
               >
                 {filter.label}
               </button>
