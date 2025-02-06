@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/table-apron-menu/static/css/main.ed88e805.css",
+    "main.js": "/table-apron-menu/static/js/main.861d60c6.js",
+    "index.html": "/table-apron-menu/index.html",
+    "main.ed88e805.css.map": "/table-apron-menu/static/css/main.ed88e805.css.map",
+    "main.861d60c6.js.map": "/table-apron-menu/static/js/main.861d60c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed88e805.css",
+    "static/js/main.861d60c6.js"
+  ]
+}
