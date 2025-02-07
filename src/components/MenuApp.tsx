@@ -71,10 +71,6 @@ const menuItems = [
     preferences: ['no raw garlic', 'no spicy'],
     category: "Bread & Spread"
   },
-  // Add more items as needed
-];
-
-export const menuItemsSecondBatch = [
   {
     id: 8,
     category: 'Pasta/Rice',
